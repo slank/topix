@@ -1,0 +1,8 @@
+###############################################################################
+
+Sometimes your solution is focused solely on server-side operating systems, and
+that's where Linux falls short.
+
+http://www.whymicrosoft.com/Pages/linux.aspx (defunct)
+
+###############################################################################
