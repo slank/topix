@@ -30,3 +30,13 @@ perhaps [o]we[n] made some
 How did those get there?
 
 ###############################################################################
+
+Please be aware that all hardware is subject to faults.
+
+The underlying hardware has since recovered, but you still have the option to
+move to new hardware. However, please be aware that all hardware is subject to
+faults.
+
+    - Tracy P, Amazon Web Services
+
+###############################################################################
