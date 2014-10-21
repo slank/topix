@@ -40,3 +40,16 @@ faults.
     - Tracy P, Amazon Web Services
 
 ###############################################################################
+
+If only there was an up arrow for life
+
+(Regarding an image posted in HipChat)
+
+Geoff:   It's from the carnival episode of rocko's modern life… he ran all the
+         rides and would always tell them to put on seatbelts and stuff,
+         "Safety first!" and it would invariably turn out to be some incredibly
+         dangerous and poorly-maintained ride
+Matthew: Yes, that's too obscure. Take it back.
+Geoff:   Hit the up arrow next to it and consider it redacted
+
+###############################################################################
