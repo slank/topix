@@ -61,3 +61,10 @@ Geoff:   Hit the up arrow next to it and consider it redacted
 
 ###############################################################################
 
+ALTER SYSTEM CRASH INSTANCE
+
+A new statement provided by Amazon's Aurora database.
+http://www.slideshare.net/AmazonWebServices/sdd415-new-launch-amazon-aurora-amazons-new-relational-database-engine-aws-reinvent-2014/16
+
+###############################################################################
+
