@@ -87,3 +87,9 @@ laptop on the floor, to get a good sonic enema going
 The construction noise outside isn't quite distracting enough.
 
 ###############################################################################
+
+comment out the bit that sets the 'fail' flag
+
+The universal workaround
+
+###############################################################################
