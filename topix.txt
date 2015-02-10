@@ -93,3 +93,9 @@ comment out the bit that sets the 'fail' flag
 The universal workaround
 
 ###############################################################################
+
+thats how I got the poopbags urls in the first place :(
+
+shift-delete removes them from your history
+
+###############################################################################
