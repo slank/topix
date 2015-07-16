@@ -111,3 +111,10 @@ Admin Access for "It's 5 O'Clock Somewhere" HipChat Room
 https://news.google.com/newspapers?nid=1314&dat=19790627&id=hvdLAAAAIBAJ&sjid=Ie4DAAAAIBAJ&pg=3758,5679145&hl=en
 
 ###############################################################################
+
+'Multi-doing helps you get to "done" faster'
+
+New features in Windows 10
+https://www.microsoft.com/en-us/windows/features
+
+###############################################################################
